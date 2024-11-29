@@ -4,6 +4,7 @@ import Components from "unplugin-vue-components/vite";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: './docs',
+  base: '/materiaraiding/',
   title: "Materia Raiding",
   description: "Materia Raiding is a community driven project to collate the various guide and tools created for raiding in the FF14 Materia Datacenter.",
   head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
