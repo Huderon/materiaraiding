@@ -1,5 +1,4 @@
 # Ignore vitepress data
-.vitepress/dist
 .vitepress/cache
 # Ignore node modules
 node_modules/

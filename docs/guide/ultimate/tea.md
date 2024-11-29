@@ -458,7 +458,7 @@ Once the debuffs resolve, BJ will cast Flarethrower twice (conal AoE) to the 2 c
 
 ### Debuffs
 The debuffs are as below. They are **role-based**, one DPS and one support will receive one of the following:
-- **Aggravated Assault**, shown by a lightning symbol ![](images/305104611-36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f.webp)
+- **Aggravated Assault**, shown by a lightning symbol ![](/images/305104611-36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f.webp)
  in the debuff. These 2 players will take moderate damage and receive physical and magic vulnerabilities and therefore cannot take any other damage during the timestop, otherwise they will die.
 - **Blue tether**. ![](/images/305104749-163d6d46-601c-412c-9351-b73f1acabad2.webp)
  These 2 players must be far apart during the timestop or they will die.

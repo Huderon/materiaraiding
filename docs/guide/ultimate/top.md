@@ -176,7 +176,7 @@ Omega-M and Omega-F will then cast:
 ### Party Synergy
 Both bosses will become untargetable and disappear as the mechanic begins. 
 
-The party is inflicted with either **Mid Glitch** ![](/images/icons/mid-glitch.webp)  or **Remote Glitch** ![](images/icons/remote-glitch.webp). Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
+The party is inflicted with either **Mid Glitch** ![](/images/icons/mid-glitch.webp)  or **Remote Glitch** ![](/images/icons/remote-glitch.webp). Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
 
 ::: info EVERYONE
 The party should line-up from East to West as seen in the cheatsheet. 
