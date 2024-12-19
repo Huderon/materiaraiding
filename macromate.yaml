@@ -7,37 +7,37 @@ macros:
   - name: AAI - Boss 1
     group: "Criterion/AAI"
     iconId: 65105
-    markdownUrl: _criterion/aai.md
+    markdownUrl: docs/guides/criterion/aai.md
     markdownMacroCodeBlockIndex: 0
 
   - name: AAI - Boss 2
     group: "Criterion/AAI"
     iconId: 65105
-    markdownUrl: _criterion/aai.md
+    markdownUrl: docs/guides/criterion/aai.md
     markdownMacroCodeBlockIndex: 1
 
   - name: AAI - Boss 3
     group: "Criterion/AAI"
     iconId: 65105
-    markdownUrl: _criterion/aai.md
+    markdownUrl: docs/guides/criterion/aai.md
     markdownMacroCodeBlockIndex: 2
 
   - name: ASS - Boss 1
     group: "Criterion/ASS"
     iconId: 65105
-    markdownUrl: _criterion/ass.md
+    markdownUrl: docs/guides/criterion/ass.md
     markdownMacroCodeBlockIndex: 0
 
   - name: ASS - Boss 2
     group: "Criterion/ASS"
     iconId: 65105
-    markdownUrl: _criterion/ass.md
+    markdownUrl: docs/guides/criterion/ass.md
     markdownMacroCodeBlockIndex: 1
 
   - name: ASS - Boss 3
     group: "Criterion/ASS"
     iconId: 65105
-    markdownUrl: _criterion/ass.md
+    markdownUrl: docs/guides/criterion/ass.md
     markdownMacroCodeBlockIndex: 2
 
   # ============
@@ -47,17 +47,17 @@ macros:
   - name: EX1
     group: "Extreme"
     iconId: 81825
-    markdownUrl: _extreme/ex1.md
+    markdownUrl: docs/guides/extreme/ex1.md
 
   - name: EX2
     group: "Extreme"
     iconId: 81807
-    markdownUrl: _extreme/ex2.md
+    markdownUrl: docs/guides/extreme/ex2.md
 
   - name: EX3
     group: "Extreme"
     iconId: 81807
-    markdownUrl: _extreme/ex3.md
+    markdownUrl: docs/guides/extreme/ex3.md
 
   # ==========
   # = Savage =
@@ -66,7 +66,7 @@ macros:
   - name: M1S
     group: "Savage"
     iconId: 26457
-    markdownUrl: _savage/m1s.md
+    markdownUrl: docs/guides/savage/m1s.md
     notes: |
       Changelog:
       - Jul 23, 2024: Introduced
@@ -74,17 +74,17 @@ macros:
   - name: M2S
     group: "Savage"
     iconId: 26458
-    markdownUrl: _savage/m2s.md
+    markdownUrl: docs/guides/savage/m2s.md
 
   - name: M3S
     group: "Savage"
     iconId: 26459
-    markdownUrl: _savage/m3s.md
+    markdownUrl: docs/guides/savage/m3s.md
 
   - name: M4S
     group: "Savage"
     iconId: 26460
-    markdownUrl: _savage/m4s.md
+    markdownUrl: docs/guides/savage/m4s.md
 
   # ==========
   # = Ultimate =
@@ -95,25 +95,25 @@ macros:
   - name: UWU - Garuda
     group: "Ultimate/UWU"
     iconId: 26532
-    markdownUrl: _ultimate/uwu.md
+    markdownUrl: docs/guides/ultimate/uwu.md
     markdownMacroCodeBlockIndex: 1
 
   - name: UWU - Ifrit
     group: "Ultimate/UWU"
     iconId: 26532
-    markdownUrl: _ultimate/uwu.md
+    markdownUrl: docs/guides/ultimate/uwu.md
     markdownMacroCodeBlockIndex: 2
 
   - name: UWU - Titan
     group: "Ultimate/UWU"
     iconId: 26532
-    markdownUrl: _ultimate/uwu.md
+    markdownUrl: docs/guides/ultimate/uwu.md
     markdownMacroCodeBlockIndex: 3
 
   - name: UWU - Ultima
     group: "Ultimate/UWU"
     iconId: 26532
-    markdownUrl: _ultimate/uwu.md
+    markdownUrl: docs/guides/ultimate/uwu.md
     markdownMacroCodeBlockIndex: 4
 
   # UCOB
@@ -121,37 +121,37 @@ macros:
   - name: UCOB - Twin/Nael
     group: "Ultimate/UCOB"
     iconId: 26526
-    markdownUrl: _ultimate/ucob.md
+    markdownUrl: docs/guides/ultimate/ucob.md
     markdownMacroCodeBlockIndex: 0
 
   - name: UCOB - QMT/BFT
     group: "Ultimate/UCOB"
     iconId: 26526
-    markdownUrl: _ultimate/ucob.md
+    markdownUrl: docs/guides/ultimate/ucob.md
     markdownMacroCodeBlockIndex: 1
 
   - name: UCOB - FRT/HFT
     group: "Ultimate/UCOB"
     iconId: 26526
-    markdownUrl: _ultimate/ucob.md
+    markdownUrl: docs/guides/ultimate/ucob.md
     markdownMacroCodeBlockIndex: 2
 
   - name: UCOB - TST/GO
     group: "Ultimate/UCOB"
     iconId: 26526
-    markdownUrl: _ultimate/ucob.md
+    markdownUrl: docs/guides/ultimate/ucob.md
     markdownMacroCodeBlockIndex: 3
 
   - name: UCOB - Adds (D4 Float)
     group: "Ultimate/UCOB"
     iconId: 26526
-    markdownUrl: _ultimate/ucob.md
+    markdownUrl: docs/guides/ultimate/ucob.md
     markdownMacroCodeBlockIndex: 4
 
   - name: UCOB - Golden Baha Mits
     group: "Ultimate/UCOB"
     iconId: 26526
-    markdownUrl: _ultimate/ucob.md
+    markdownUrl: docs/guides/ultimate/ucob.md
     markdownMacroCodeBlockIndex: 5
 
   # DSR
@@ -159,11 +159,11 @@ macros:
   - name: DSR - Playstation Chains
     group: "Ultimate/DSR"
     iconId: 26627
-    markdownUrl: _ultimate/dsr.md
+    markdownUrl: docs/guides/ultimate/dsr.md
     markdownMacroCodeBlockIndex: 0
 
   - name: DSR - Haurchefant
     group: "Ultimate/DSR"
     iconId: 26627
-    markdownUrl: _ultimate/dsr.md
+    markdownUrl: docs/guides/ultimate/dsr.md
     markdownMacroCodeBlockIndex: 1
